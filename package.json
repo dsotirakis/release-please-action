@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcoe/release-please-action.git"
+    "url": "git+https://github.com/dsotirakis/release-please.git"
   },
   "keywords": [
     "release-please",
