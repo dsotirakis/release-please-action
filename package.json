@@ -28,7 +28,7 @@
   "homepage": "https://github.com/bcoe/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "git+https://github.com/dsotirakis/release-please.git#add-generic-sha-updater"
+    "release-please": "github:dsotirakis/release-please#add-generic-sha-updater"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
